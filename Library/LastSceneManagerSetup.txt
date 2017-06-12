@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/3D Adventure Game Kit/Assets/Example World/Scene/Scene.unity
+- path: Assets/Test Plane.unity
   isLoaded: 1
   isActive: 1
